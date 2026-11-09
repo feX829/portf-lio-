@@ -23,7 +23,7 @@ What I learned here:
 - Normalizing nested data into clean DataFrame columns
 
 ### Exploratory Analysis with Pandas
-File: `analise_pandas_citacoes.py`
+File: `Basic_scraper.py`
 
 Takes the raw data collected by the scraper and turns it into something
 actually analyzable: cleaning columns, creating derived fields and
