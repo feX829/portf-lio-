@@ -9,7 +9,7 @@ a phone and a lot of curiosity.
 ## Projects
 
 ### JSON Quote Scraper
-File: `scraper_json_quotes.py`
+File: `Pandas_preview`
 
 A scraper that talks directly to a public JSON API
 (quotes.toscrape.com) instead of parsing HTML. It fetches the raw data,
